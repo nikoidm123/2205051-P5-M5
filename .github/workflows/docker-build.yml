@@ -22,4 +22,4 @@ jobs:
       uses: docker/build-push-action@v5
       with:
         push: true
-        tags: nichoray/flaskapp:latest
+        tags: nichoray/flask:latest
